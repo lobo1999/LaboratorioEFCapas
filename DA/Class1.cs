@@ -8,5 +8,7 @@ namespace DA
 {
     public class Class1
     {
+        //Proof one
+        //Proof two
     }
 }
